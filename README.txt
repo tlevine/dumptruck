@@ -2,6 +2,8 @@ DumpTruck
 ==============
 DumpTruck is a document-like interface to a SQLite database.
 
+**But this is no longer the canonical repository**; use [this one](https://github.com/scraperwiki/dumptruck).
+
 Quick start
 ----------
 Install, save data and retrieve it using default settings.
